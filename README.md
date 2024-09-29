@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Nagios](https://img.shields.io/badge/nagios-%23000000.svg?style=for-the-badge&logo=nagios&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFB81C?style=for-the-badge&logo=Anthropic&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1E2A47?style=for-the-badge&logo=github&logoColor=white)
+![Cody](https://img.shields.io/badge/Cody-FF6666?style=for-the-badge&logo=sourcegraph&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
@@ -57,3 +61,4 @@ You can click the Preview link to take a look at your changes.
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
